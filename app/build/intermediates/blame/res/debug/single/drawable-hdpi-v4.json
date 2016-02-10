@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/emailman/Downloads/DialogFragmentDemo2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/emailman/Downloads/DialogFragmentDemo2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emailman/Downloads/DialogFragmentDemo2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/androidhappy.png",
+        "source": "/home/emailman/Downloads/DialogFragmentDemo2/app/src/main/res/drawable-hdpi/androidhappy.png"
+    }
+]
