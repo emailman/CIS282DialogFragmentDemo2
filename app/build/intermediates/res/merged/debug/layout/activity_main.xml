@@ -7,15 +7,18 @@
         android:id="@+id/dfragbutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:text="@string/dialogfragment" />
+        android:text="@string/dialogfragment"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="111dp" />
 
     <Button
         android:id="@+id/alertdfragbutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:text="@string/alertdialogfragment"
         android:layout_below="@+id/dfragbutton"
-        android:layout_centerInParent="true"
-        android:text="@string/alertdialogfragment" />
+        android:layout_alignStart="@+id/dfragbutton"
+        android:layout_marginTop="154dp" />
 
 </RelativeLayout>

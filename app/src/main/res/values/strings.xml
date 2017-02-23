@@ -4,7 +4,7 @@
     <string name="app_name">DialogFragment Tutorial</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-    <string name="welcome">This is a DialogFragment.</string>
+    <string name="welcome">This is a simple Dialog Fragment.</string>
     <string name="dialogfragment">Open Simple Dialog Fragment</string>
     <string name="alertdialogfragment">Open Alert Dialog Fragment</string>
 
