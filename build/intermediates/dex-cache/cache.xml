@@ -2,11 +2,112 @@
 <items version="2" >
 
     <item
-        jar="/home/emailman/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/home/emailman/Downloads/DialogFragmentDemo2/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_bdc8a88d4468559fbfd6259936531e3e9bccb5b1.jar" />
+        is-multidex="true"
+        jar="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_4fb41d0d61414418c0f8726ce4f32826965d255b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_2ed37bb56bf817f884f8040ba2b24305c1efe242/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_4dee5f48798c17b9e5a23d0f397a17c89a82295d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/opt/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_bbfab1713c14fdeb8899350854d7163faf02d262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_4e40a91c9c3a88df9f3a1c02eb1e24f083735805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_b91cbcf25e85203217d08f577e359ec214a371ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_c9453fbbf2e5cc6c58ed1249b80888a0784908eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_98b0540caedad4e9b04f1ace3683eb9147e68812/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="511323b4fa42e249ce7b56c2ae6ccb42978574f3">
+        <dex dex="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5bd4d95e6ca24a2651c85f2f52d8fb5991623d3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_2510881435d0b72394c5a9a2bd626ff8e498a6d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68b15051aed484bc976291e2547c7474350d1ef5">
+        <dex dex="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3ec211dd989c2206459ebc4307c7063cb936948c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/eric/AndroidStudioProjects/CIS282DialogFragmentDemo2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_a3d745e5ce463074d0f608dfc94a1a508b127bef/classes.dex" />
     </item>
 
 </items>

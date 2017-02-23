@@ -12,7 +12,7 @@ public class DFragment extends DialogFragment {
 			Bundle savedInstanceState) {
 		View rootView = inflater.inflate(R.layout.dialogfragment, container,
 				false);
-		getDialog().setTitle("DialogFragment Tutorial");		
+		getDialog().setTitle("Simple Dialog Fragment");
 		// Do something else
 		return rootView;
 	}

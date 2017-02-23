@@ -13,9 +13,9 @@ public class AlertDFragment extends DialogFragment {
 				// Set Dialog Icon
 				.setIcon(R.drawable.androidhappy)
 				// Set Dialog Title
-				.setTitle("Alert DialogFragment")
+				.setTitle("Alert Dialog Fragment")
 				// Set Dialog Message
-				.setMessage("Alert DialogFragment Tutorial")
+				.setMessage("Alert Dialog Fragments Have More Features")
 				
 				// Positive button
 				.setPositiveButton("OK", new DialogInterface.OnClickListener() {
