@@ -26,7 +26,7 @@ public class MainActivity extends FragmentActivity {
 		// Capture button clicks
 		dfragbutton.setOnClickListener(new OnClickListener() {
 			public void onClick(View arg0) {
-				DFragment dFragment = new DFragment();
+				MyDialogFragment dFragment = new MyDialogFragment();
 				// Show DialogFragment
 				dFragment.show(fm, "Dialog Fragment");
 			}
@@ -35,7 +35,7 @@ public class MainActivity extends FragmentActivity {
 		// Capture button clicks
 		alertdfragbutton.setOnClickListener(new OnClickListener() {
 			public void onClick(View arg0) {
-				AlertDFragment alertdFragment = new AlertDFragment();
+				MyAlertDialogFragment alertdFragment = new MyAlertDialogFragment();
 				// Show Alert DialogFragment
 				alertdFragment.show(fm, "Alert Dialog Fragment");
 			}
